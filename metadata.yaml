@@ -1,0 +1,30 @@
+_repo: Chronicle-of-the-Cid_8491
+contributor:
+  author_of_introduction:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+  translator:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cid, approximately 1043-1099 -- Romances'
+- !lcc 'PQ'
+title: Chronicle of the Cid
+url: http://www.gutenberg.org/ebooks/8491
